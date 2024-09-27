@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.cont-table td, .cont-table th{
+    @apply px-2 text-left;
+}
