@@ -30,7 +30,7 @@ const Home = () => {
 
         setGoals({
             collected: collected,
-            target: 1500,
+            target: 1800,
         });
     }, [contributions]);
 
@@ -38,41 +38,24 @@ const Home = () => {
         <>
             <div className="p-4 text-center">
                 <p className="text-[1.3em] font-bold">
-                    Campaign for Domain Renewal of IDOLCS.com
+                    Campaign for ChatGPT Plus (Sem 4)
                 </p>
                 <p className="mt-4">
-                    We hope you have used this platform and it has{" "}
-                    <strong>created value</strong> in your academic journey, the
-                    project has been{" "}
-                    <span className="font-bold">free and open source</span> from
-                    the beginning. While many people have consistently put out
-                    content on the platform, there is minimal contribution from
-                    the general members. As we are out of funds to renew the
-                    domain, this is the opportunity for everyone to contribute
-                    their fair share to the platform, to give back to the
-                    community.
-                </p>
-                <p className="mt-4">
-                    <span className="font-bold">What is the need for idolcs.com? </span> one might think. I remember
-                    an incident while standing in line for the book collection
-                    of Semester 1, one person in his mid-30s was standing in
-                    front of me, he was standing there to collect books for his
-                    wife, she was in MA in IDOL, he told me that his wife missed
-                    her exams twice because nobody notified her and IDOL does
-                    not have a systematic infrastructure for their purely
-                    distance students.{" "}
-                    <span className="font-bold">We are solving it!</span>{" "}
-                    Idolcs.com exists because mu.ac.in is incompetent in terms
-                    of building a community/platform for students, and as
-                    distance learners, we need it the most.
-                </p>
-                <p className="mt-4">
-                    I request you to contribute monetarily to the project in
-                    whatever capacity you can and enable us to gather a sum of
-                    Rs. 1500 for domain renewal for the year 2024-2025. <br />{" "}
-                    <span className="italic">
-                        And enable us to keep the show running.
-                    </span>
+                    As we are nearing the end of the semester, we all are waiting for 
+                    notes and important resources to study for the exams.
+                    <br />
+                    <br />
+                    Ayyub aka Shadow has been consistenly providing us with all the required
+                    resources needed to nail the exams and he is doing it for this semester too.
+                    But we are met with a problem, the current free models of ChatGPT are not 
+                    sufficient to keep up with the pace of the semester and we need to upgrade to
+                    ChatGPT Plus to get the best out of it.
+                    <br />
+                    <br />
+                    We are raising funds to get ChatGPT Plus for the organisation so that we can continue
+                    to recieve the best resources and notes for the semester. The amount we are raising is
+                    1800 INR and we need your help to achieve this goal. We are requesting each one of you to
+                    contribute a small amount to this cause.
                 </p>
                 <p className="mt-4 text-[0.8em]">~ Yash, idolcs.com</p>
             </div>

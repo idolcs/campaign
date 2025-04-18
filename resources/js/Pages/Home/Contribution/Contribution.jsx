@@ -6,7 +6,7 @@ import axios from "axios";
 const Contribution = () => {
     const copyUpiId = () => {
         const copyOperation =
-            navigator.clipboard.writeText("9324612161@yespop");
+            navigator.clipboard.writeText("ayubmohideen@oksbi");
         if (copyOperation) {
             alert("Text copied to clipboard");
         }
@@ -35,7 +35,7 @@ const Contribution = () => {
                     <p className="mt-4">
                         Send the desired amount to{" "}
                         <span onClick={copyUpiId} className="cursor-pointer">
-                            <strong>9324612161@yespop</strong>
+                            <strong>ayubmohideen@oksbi</strong>
                             <span>
                                 <img
                                     className="ml-0.5 h-[1.2em] inline-block"
